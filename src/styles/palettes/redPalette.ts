@@ -80,7 +80,7 @@ export const redPalette: PaletteContract = {
   contrastThreshold: 3,
   tonalOffset: 0.2,
   text: {
-    primary: "#1A2027",
+    primary: salmonPink,
     secondary: "#3E5060",
     disabled: lightPink,
   },

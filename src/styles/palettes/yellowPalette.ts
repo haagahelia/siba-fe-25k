@@ -77,7 +77,7 @@ export const yellowPalette: PaletteContract = {
   contrastThreshold: 3,
   tonalOffset: 0.2,
   text: {
-    primary: "#1A2027",
+    primary: eggWhite,
     secondary: "#3E5060",
     disabled: butteryWhite,
   },
